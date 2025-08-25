@@ -24,8 +24,7 @@ It gives you random activity suggestions, or lets you filter by **type** and **p
 ---
 
 ## 📷 Demo
-![screenshot](public/screenshot.png)  
-*(Add a screenshot of your app here if you like)*  
+![Demo](public/styles/demo.png)
 
 ---
 
