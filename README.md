@@ -35,3 +35,10 @@ It gives you random activity suggestions, or lets you filter by **type** and **p
 ```bash
 git clone https://github.com/your-username/boredom-buster.git
 cd boredom-buster
+
+npm install
+
+node index.js
+
+
+
