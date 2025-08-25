@@ -24,7 +24,7 @@ It gives you random activity suggestions, or lets you filter by **type** and **p
 ---
 
 ## 📷 Demo
-![Demo](public/styles/demo.png)
+![Demo](public/demo.png)
 
 ---
 
